@@ -1,0 +1,1 @@
+<div id="footer">© Copyright 2018 Wishal fakira</div>
