@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Pizzaroo</a>
+        <a class="navbar-brand js-scroll-trigger" href="/home">Pizzaroo</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fas fa-bars"></i>
@@ -16,11 +16,17 @@
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="/about">Over ons</a>
                 </li>
+                {{--<li class="nav-item">--}}
+                    {{--<a class="nav-link js-scroll-trigger" href="#team">Team</a>--}}
+                {{--</li>--}}
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#team">Team</a>
+                    <a class="nav-link js-scroll-trigger" href="/contact">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="http://hoopp.test/contact">Contact</a>
+                    <a class="nav-link js-scroll-trigger" href="/login">Login</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="/register">Register</a>
                 </li>
             </ul>
         </div>
